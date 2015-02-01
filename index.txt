@@ -1,5 +1,9 @@
 html
 
+head
+	title	≈∏¿Ã∆≤	title
+head
+
 body
 	header zazzzzz header
 
